@@ -1,6 +1,10 @@
 
 
 ## Available Scripts
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
 
 In the project directory, you can run:
 
